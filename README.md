@@ -35,3 +35,4 @@ Task:
 
 -----======= YOUR PROJECT IS HERE! ===========-------
     PROJECT AVENSKI DSOIKA DSKROTSKI
+Dedicated features (branches):AVenski DSoika DSkrotski
