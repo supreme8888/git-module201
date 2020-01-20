@@ -5,7 +5,7 @@
   $d = $_SERVER['SERVER_PORT'];  
   $e = $_SERVER['HTTP_HOST'];
   $af = $_ENV['USERNAME'];
-We dont need this comment !!! 
+  
 $count1=" IP: $a   br: $b   ot: $c  p: $d  h: $e  us: $af \n";
 $f=fopen("log.txt","a+");
 fwrite($f,$count1);  
