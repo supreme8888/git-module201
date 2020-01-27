@@ -38,4 +38,8 @@ Task:
 
 
 -----======= YOUR PROJECT IS HERE! ===========-------
-    PROJECT AVENSKI DSOIKA DSKROTSKI
+   
+There is new record
+
+
+
