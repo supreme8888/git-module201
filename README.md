@@ -38,6 +38,4 @@ Task:
 
 
 -----======= YOUR PROJECT IS HERE! ===========-------
-                    ||
-                    ||
-                    
+    PROJECT AVENSKI DSOIKA DSKROTSKI
