@@ -39,7 +39,27 @@ Task:
 
 -----======= YOUR PROJECT IS HERE! ===========-------
    
-There is new record
+There is new record 30.10.2020 00:16
+
+Have done:
+Aliaksandr: cloning, merge, branch, force push, tagging/change version, rebase
+Bohdan: cloning, merge, managing, tagging/change version, revert change
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
