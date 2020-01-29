@@ -37,4 +37,6 @@ Task:
                     ||
                     ||
 This is a description of the project:
-project/akrasnitskiy-ssuhinin-aiulev-vivanchikov                    
+project/akrasnitskiy-ssuhinin-aiulev-vivanchikov
+
+VER 1.1                    
