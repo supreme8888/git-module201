@@ -36,7 +36,4 @@ Task:
 -----======= YOUR PROJECT IS HERE! ===========-------
                     ||
                     ||
-
-
-
-=============== PROJECT DIAGRAM WILL BE HERE =================                    
+                    
