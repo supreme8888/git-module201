@@ -39,3 +39,8 @@ Task:
 ![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/2.png)
 ![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/3.png)
 ![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/4.png)
+
+Diagram
+=======
+
+![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/ayoursh/Diagram.png)
