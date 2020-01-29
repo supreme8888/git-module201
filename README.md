@@ -32,23 +32,11 @@ Task:
 <br>
 <br>
 
-
------======= YOUR PROJECT IS HERE! ===========------- <br>
-                    ||
-
-
-=======
-
---------------This is a pull of our tasks for everyone---------------------
-
-      Anastasiya | Vitaly | Kanstantin 
-                    ||
 -----------OUR TEAM WILL BE HERE---------------
 VITALI ANDRUSHKEVICH <br>
 ANASTASIA BRYTSIKAVA <br>
+KANSTANTIN KRYVAPISHYN <br> 
 
-KANSTANTIN KRYVAPISHYN <br> add change 
-                  
-=======
-KANSTANTIN KRYVAPISHYN <br>
+![Image alt](https://github.com/MNT-Lab/git-module201/blob/project/abrytsikava-kkryvapishyn-vandrushkevich/image.png)
 
+There are just our first steps in GitHub!
