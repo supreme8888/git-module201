@@ -33,8 +33,9 @@ Task:
 <br>
 
 
------======= YOUR PROJECT IS HERE! ===========-------
+-----======= YOUR PROJECT IS HERE! ===========-------<br>
     PROJECT AVENSKI DSOIKA DSKROTSKI<br>
 Dedicated features (branches):AVenski DSoika DSkrotski<br>
 This is such cool project! I could work with this all night long!<br>
+![alt text](https://github.com/MNT-Lab/git-module201/blob/project/AVenski-DSoika-DSkrotski/ourcutediagram.jpeg "Workflow diagram")
 Yes, there is really nothing to see<br>
