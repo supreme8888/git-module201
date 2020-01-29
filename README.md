@@ -42,3 +42,5 @@ VITALI ANDRUSHKEVICH<br>
 KANSTANTIN KRYVAPISHYN<br>
 
 --------------This is a pull of our tasks for everyone---------------------
+
+Anastasiya | Vitaly | Kanstantin 
