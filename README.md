@@ -42,4 +42,7 @@ project/akrasnitskiy-ssuhinin-aiulev-vivanchikov
 VER 1.1 
 
 VER 1.2
+
+VER 1.3
+
                    
