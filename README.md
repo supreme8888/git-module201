@@ -1,7 +1,8 @@
 # git-module
 
 Task:
-1) Watch Videos <br>
+1) Watch Videos  (playlist: https://videoportal.epam.com/playlist/1oxX2Por/play/9o3xxVRl) <br>
+<br>
   https://videoportal.epam.com/video/9o3xxVRl VCS Concept<br>
   https://videoportal.epam.com/video/Gob552ay Types of VCS<br>
   https://videoportal.epam.com/video/VJwjWDRv Why GIT<br>
@@ -31,4 +32,8 @@ Task:
 <br>
 <br>
 
-YOUR PROJECT IS HERE!
+
+-----======= YOUR PROJECT IS HERE! ===========-------
+                    ||
+                    ||
+                    
