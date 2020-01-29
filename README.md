@@ -33,14 +33,15 @@ Task:
 <br>
 
 
------======= YOUR PROJECT IS HERE! ===========-------
-                    ||
-                    ||
-                    IT IS NOT MY PROJect!!
-		C/_\Ecb БЫЛ СЛАБУК
+-----======= project/vnikifarau-ayoursh ===========-------
 
+           
 
-![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/1.png)
-![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/2.png)
-![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/3.png)
+                                        # KATAKODA101
+![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/1.png) 
+                                        # KATAKODA102
+![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/2.png) 
+                                        # KATAKODA201
+![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/3.png) 
+                                        # KATAKODA202
 ![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/4.png)
