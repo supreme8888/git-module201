@@ -36,7 +36,11 @@ Task:
 -----======= YOUR PROJECT IS HERE! ===========-------
                     ||
                     ||
+
 project/abatura-dshishkovets-askvarcheuski:
 Andrei Batura, Aleksandr Skvarcheuski, Dmitriy Shishkovets
-                
 
+
+
+project/isoika-szaremba                    
+bfc64ec778d7150a709b64adf48a1ca03a6dc691
