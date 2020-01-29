@@ -35,6 +35,7 @@ Task:
 
 -----======= YOUR PROJECT IS HERE! ===========------- <br>
                     ||
+<<<<<<< HEAD
                     ||<br>
 -----------OUR TEAM WILL BE HERE---------------<br>
 ANASTASYIA BRITSIKAVA<br>
@@ -44,3 +45,11 @@ KANSTANTIN KRYVAPISHYN<br>
 --------------This is a pull of our tasks for everyone---------------------
 
 Anastasiya | Vitaly | Kanstantin 
+=======
+                    ||
+-----------OUR TEAM WILL BE HERE---------------
+VITALI ANDRUSHKEVICH <br>
+ANASTASIA BRYTSIKAVA <br>
+KANSTANTIN KRYVAPISHYN <br>
+                  
+>>>>>>> 83b6e4fa9a97751eaf036b95c288c339715d21c4
