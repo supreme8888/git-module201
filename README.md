@@ -34,7 +34,7 @@ Task:
 
 
 -----======= YOUR PROJECT IS HERE! ===========-------
-    PROJECT AVENSKI DSOIKA DSKROTSKI
+    PROJECT AVENSKI DSOIKA DSKROTSKI<br>
 Dedicated features (branches):AVenski DSoika DSkrotski<br>
-This is such cool project! I could work with this all night long!
-Yes, there is really nothing to see
+This is such cool project! I could work with this all night long!<br>
+Yes, there is really nothing to see<br>
