@@ -45,3 +45,5 @@ WORKFLOW
 2) Adding file "test" to feature/skazak-kbaravoy (Kirill Baravoy did this)
 3) Merge feature branch into project branch (Siarhei Kazak did this)
 4) Edit test file on feature branch and merge feature to project, resolving a confict (Kiraill Baravoy did this)
+5) Add katacoda folder with Kirill Baravoy screenshots (Kirill did this)
+6) Add katacoda folder with Siarhei Kazak screenshots (Siarhei did this)
