@@ -34,13 +34,25 @@ Task:
 
 
 -----======= project/vnikifarau-ayoursh ===========-------
-                                       
+                                                 
+
+                                        # KATAKODA101
+                                        
 ![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/1.png)
+
+                                        # KATAKODA102
+                                        
 ![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/2.png)
+
+                                        # KATAKODA201
+                                        
 ![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/3.png)
+
+                                        # KATAKODA202
+                                        
 ![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/4.png)
 
-Diagram
-=======
+                                        Diagram
+                                        =======
 
 ![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/ayoursh/Diagram.png)
