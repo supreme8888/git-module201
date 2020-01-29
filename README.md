@@ -38,3 +38,9 @@ Task:
                     ||
                     IT IS NOT MY PROJect!!
 		C/_\Ecb БЫЛ СЛАБУК
+
+
+![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/1.png)
+![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/2.png)
+![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/3.png)
+![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/4.png)
