@@ -34,6 +34,4 @@ Task:
 
 
 -----======= YOUR PROJECT IS HERE! ===========-------
-                    ||
-                    ||
-                    
+Something                    
