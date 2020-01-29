@@ -35,8 +35,8 @@ Task:
 
 -----======= YOUR PROJECT IS HERE! ===========------- <br>
                     ||
-                    ||
+                    ||<br>
 -----------OUR TEAM WILL BE HERE---------------<br>
 ANASTASYIA BRITSIKAVA<br>
-VITALI ANDRUSHKEVICH <br>                  
+VITALI ANDRUSHKEVICH<br>
 KANSTANTIN KRYVAPISHYN<br>
