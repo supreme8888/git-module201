@@ -37,7 +37,7 @@ Task:
                     ||
                     ||
 project/abatura-dshishkovets-askvarcheuski:
-Andrei Batura, 
+Dmitriy Shishkovets
 #added new feature1
 		
                     
