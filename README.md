@@ -40,3 +40,5 @@ Task:
 ANASTASYIA BRITSIKAVA<br>
 VITALI ANDRUSHKEVICH<br>
 KANSTANTIN KRYVAPISHYN<br>
+
+--------------This is a pull of our tasks for everyone---------------------
