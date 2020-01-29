@@ -37,4 +37,4 @@ Task:
                     ||
                     ||
 -----------------------------------------------------
-Our team the best from team ever was!                     
+Our team is the best from team ever was!                     
