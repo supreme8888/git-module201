@@ -33,11 +33,19 @@ Task:
 <br>
 
 
------======= YOUR PROJECT IS HERE! ===========-------
+-----======= YOUR PROJECT IS HERE! ===========------- <br>
                     ||
+
+
+=======
+
+--------------This is a pull of our tasks for everyone---------------------
+
+Anastasiya | Vitaly | Kanstantin 
+=======
                     ||
 -----------OUR TEAM WILL BE HERE---------------
 VITALI ANDRUSHKEVICH <br>
 ANASTASIA BRYTSIKAVA <br>
 KANSTANTIN KRYVAPISHYN <br>
-..11..22..33.....                  
+
