@@ -39,4 +39,5 @@ Task:
 -----------OUR TEAM WILL BE HERE---------------
 VITALI ANDRUSHKEVICH <br>
 ANASTASIA BRYTSIKAVA <br>
-KANSTANTIN KRYVAPISHYN                   
+KANSTANTIN KRYVAPISHYN <br>
+                  
