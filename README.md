@@ -49,3 +49,5 @@ WORKFLOW
 5) Add katacoda folder with Kirill Baravoy screenshots on project (Kirill did this)
 6) Add katacoda folder with Siarhei Kazak screenshots on project(Siarhei did this)
 7) Merge feature into project, resolving conflicts (Kirill did this)
+8) Add tag v0.1 at commit d743d27f72fe4fa67b8a9fc1514f7fd82b1ed334 and tag v0.2 at 1f9bfe757442acd47f8b5df4da56447033af3646 (Siarhei did this)
+9) Create branch feature-test from v0.2
