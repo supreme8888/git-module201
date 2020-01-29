@@ -33,7 +33,7 @@ Task:
 <br>
 
 
------======= YOUR PROJECT IS HERE! ===========-------
+-----======= YOUR PROJECT IS HERE! ===========-------         
                     ||
                     ||
 -----------------------------------------------------
@@ -42,3 +42,4 @@ Our team consist:
  Maxim
  Maksim
  Maria                    
+
