@@ -1,4 +1,4 @@
-# git-module
+	# git-module
 
 Task:
 1) Watch Videos  (playlist: https://videoportal.epam.com/playlist/1oxX2Por/play/9o3xxVRl) <br>
@@ -33,7 +33,9 @@ Task:
 <br>
 
 
------======= YOUR PROJECT IS HERE! ===========-------
-                    ||
-                    ||
-                    ololo
+-----======= project/vnikifarau-ayoursh ===========-------
+                                       
+![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/1.png)
+![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/2.png)
+![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/3.png)
+![alt text](https://github.com/MNT-Lab/git-module201/blob/feature/vnikifarau/4.png)
