@@ -1,5 +1,9 @@
 # git-module
 
+
+project/aherasimenka-bauchynnikau
+
+
 Task:
 1) Watch Videos  (playlist: https://videoportal.epam.com/playlist/1oxX2Por/play/9o3xxVRl) <br>
 <br>
@@ -34,6 +38,7 @@ Task:
 
 
 -----======= YOUR PROJECT IS HERE! ===========-------
+<<<<<<< HEAD
                     ||
                     ||
 
@@ -44,3 +49,10 @@ Andrei Batura, Aleksandr Skvarcheuski, Dmitriy Shishkovets
 
 project/isoika-szaremba                    
 bfc64ec778d7150a709b64adf48a1ca03a6dc691
+=======
+   
+There is new record
+
+
+
+>>>>>>> f38236f6133deb2840ba17afeb4c0d6fd82f5f3f
