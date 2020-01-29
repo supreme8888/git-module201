@@ -36,6 +36,8 @@ Task:
 -----======= YOUR PROJECT IS HERE! ===========-------
                     ||
                     ||
-project/abatura-dshishkovets-askvarcheuski 
-		#added new feature1 by abatura
+project/abatura-dshishkovets-askvarcheuski:
+Andrei Batura, 
+#added new feature1
+		
                     
