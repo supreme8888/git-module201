@@ -33,7 +33,7 @@ Task:
 <br>
 
                 -----------OUR TEAM WILL BE HERE---------------
-'VITALI ANDRUSHKEVICH' | 'ANASTASIA BRYTSIKAVA' | 'KANSTANTIN KRYVAPISHYN' <br> 
+**VITALI ANDRUSHKEVICH | ANASTASIA BRYTSIKAVA | KANSTANTIN KRYVAPISHYN** 
 
 ![Image alt](https://github.com/MNT-Lab/git-module201/blob/project/abrytsikava-kkryvapishyn-vandrushkevich/image.png)
 
