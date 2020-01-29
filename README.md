@@ -40,6 +40,14 @@ Task:
 project/abatura-dshishkovets-askvarcheuski:
 Andrei Batura, Aleksandr Skvarcheuski, Dmitriy Shishkovets
 
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+
 
 
 project/isoika-szaremba                    
