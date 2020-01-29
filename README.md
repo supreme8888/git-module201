@@ -37,4 +37,4 @@ Task:
                     ||
                     ||
 project/abatura-dshishkovets-askvarcheuski 
-Aliaksandr Skvarcheuski          
+***Aliaksandr Skvarcheuski***
