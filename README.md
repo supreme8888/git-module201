@@ -38,7 +38,3 @@ Task:
                     ||
 -----------------------------------------------------
 Our team is the best from team ever was!
-Our team consist:
- Maxim
- Maksim
- Maria                    
