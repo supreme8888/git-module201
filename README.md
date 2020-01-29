@@ -36,4 +36,5 @@ Task:
 -----======= YOUR PROJECT IS HERE! ===========-------
                     ||
                     ||
+This is a description of the project:
 project/akrasnitskiy-ssuhinin-aiulev-vivanchikov                    
