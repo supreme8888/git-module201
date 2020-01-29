@@ -34,7 +34,7 @@ Task:
 
 
 -----======= YOUR PROJECT IS HERE! ===========-------
-                    ||
+                    |Andrei Leonovich|
                     ||
 
 ============ PROJECT DIAGRAM WILL BE HERE ===========
