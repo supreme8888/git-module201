@@ -36,4 +36,9 @@ Task:
 -----======= YOUR PROJECT IS HERE! ===========-------
                     ||
                     ||
-                    
+<br>
+Our team consists of two young devops ingeneers: Kirill Baravoy and Siarhei Kazak.
+<br>
+WORKFLOW
+<br>
+1) Creating branches: project/skazak-kbaravoy; feature/skazak-kbaravoy (Siarhey Kazak did this)
