@@ -42,3 +42,4 @@ Our team consists of two young devops ingeneers: Kirill Baravoy and Siarhei Kaza
 WORKFLOW
 <br>
 1) Creating branches: project/skazak-kbaravoy; feature/skazak-kbaravoy (Siarhey Kazak did this)
+2) Adding file "test" to feature/skazak-kbaravoy (Kirill Baravoy did this)
