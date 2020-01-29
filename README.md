@@ -41,8 +41,7 @@ Task:
 
 --------------This is a pull of our tasks for everyone---------------------
 
-Anastasiya | Vitaly | Kanstantin 
-=======
+      Anastasiya | Vitaly | Kanstantin 
                     ||
 -----------OUR TEAM WILL BE HERE---------------
 VITALI ANDRUSHKEVICH <br>
